@@ -27,5 +27,5 @@ This is a simple Spring Boot application that demonstrates various features of t
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/spring-boot-example.git
+git clone https://github.com/MaximKirichenko/spring-boot-library.git
 cd spring-boot-example
